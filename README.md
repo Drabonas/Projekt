@@ -11,3 +11,6 @@
     <p>F. prográmátor</p>
   <h3>2,Databaze</h3>
   <h3>3,Kryt</h3>
+  
+ <h3>Cíl</h3>
+  <p>Vyrobit senzor vlhkosti ktrá bude posílat co půl hodiny data databázi</p>
