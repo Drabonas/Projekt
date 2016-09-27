@@ -13,4 +13,4 @@
   <h3>3,Kryt</h3>
   
  <h3>Cíl</h3>
-  <p>Vyrobit senzor vlhkosti ktrá bude posílat co půl hodiny data databázi</p>
+  <p>Vyrobit senzor vlhkosti která bude posílat co půl hodiny data databázi</p>
