@@ -13,4 +13,4 @@
   <p>Vyrobit senzor vlhkosti která bude posílat co půl hodiny data databázi</p>
 
  <h3>Zdroje</h3>
-  <p>Zatím youtube</p>
+  <p>Zatím youtube a google</p>
