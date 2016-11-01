@@ -13,5 +13,6 @@
   <p>Vyrobit senzor vlhkosti která bude posílat co půl hodiny data databázi</p>
 
  <h3>Zdroje</h3>
-  <p>Spánek - https://openhomeautomation.net/esp8266-battery/</p>
+  <p>Spánek - https://openhomeautomation.net/esp8266-battery/
+            - https://github.com/openhomeautomation/esp8266-battery/blob/master/esp8266_low_power/esp8266_low_power.ino</p>
   <p>Zatím youtube a google</p>
